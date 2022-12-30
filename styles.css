@@ -3,8 +3,8 @@
 
 .holder{
   display:flex;
-  justify-content:center;
+  
 }
 .item-1{
-  
+  justify-self:center;
 }
