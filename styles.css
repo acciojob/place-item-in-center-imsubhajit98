@@ -4,7 +4,7 @@
 .holder{
   display:flex;
   height: 100vh;
- justify-content: space-between;
+ justify-content: center;
   flex-wrap: wrap;
 }
 .flex-box1{
